@@ -55,7 +55,7 @@ For this Lab Report, I will be using the “lecture1” repository to show off t
 
 
 2. An example of using “cat” with a path to a file as an argument
-![Image](cat_ex2.png)
+![Image](cat_ex3.png)
 * Working directory: In this case, the working directory was lecture1.
 * There was an error in the output because we gave it a directory for it to print out, and not a file.
 * There was an error because “cat” prints out the contents of a file and in this case, we gave it a directory which meant it would result in an error
