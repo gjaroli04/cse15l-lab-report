@@ -1,2 +1,2 @@
-Hello World! <br />
-[Lab Report 1](https://github.com/gjaroli04/cse15l-lab-report/blob/main/lab1.md)
+# **Lab Report 1**
+***
