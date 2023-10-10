@@ -22,3 +22,27 @@ For this Lab Report, I will be using the “lecture1” repository to show off t
   is not possible.
 * There was an error in the output because we use the “cd” command to switch the current working directory, and in this case, we were trying to switch it to a file   
   which is not a directory so we resulted in an error.
+
+**Second command: ls**
+1. An example of using “ls” without any argument
+![Image](ls_ex1.png)	
+* Working directory: In this case, the working directory was the initial working directory which is the home directory.
+* The output was “lecture 1”, and command ls with no arguments prints out the directories and files under the current working directory. In this case, there was   
+  only one directory under home, so it returned lecture1 as the output.
+* There was no error
+
+2. An example of using “ls” with a path to a directory as an argument
+![Image](ls_ex2.png)
+* Working directory: In this case, the working directory was the initial working directory which is the home directory.
+* The output was “Hello.java messages README,” and using ls with a path to a directory prints out the directories and files under the directory referred to in the 
+  path. In this case, there were two files and one directory under lecture1 so it printed those out.
+* There was no error
+
+3. An example of using “ls” with a path to a directory as an argument
+![Image](ls_ex3.png)
+* Working directory: In this case, the working directory was the initial working directory which is the home directory.
+* The output was “/home/lecture1/Hello.java” and using ls with a path to a file prints out the path to that file, which makes sense as there are no other     
+  directories or files inside a file.
+* There was no error
+
+
