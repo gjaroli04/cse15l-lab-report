@@ -46,7 +46,7 @@ For this Lab Report, I will be using the “lecture1” repository to show off t
 * There was no error
 
 **Third Command: cat**
-1. An example of using the “cat” command without any arguments:
+1. An example of using the “cat” command without any arguments:    
 ![Image](cat_ex1.png)	
 * Working directory:  In this case, the working directory was the initial working directory which is the home directory.
 * There was no output, this was in other words an error, but it did not print it out as an error as “cd” is supposed to print out contents of a file and there was 
