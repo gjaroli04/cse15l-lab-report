@@ -4,4 +4,4 @@ For this Lab Report, I will be using the “lecture1” repository to show off t
 
 First command: cd
   1. An example of using “cd” without any arguments:
-  ![Image](cd_ex1.png)	
+    ![Image](cd_ex1.png)	
