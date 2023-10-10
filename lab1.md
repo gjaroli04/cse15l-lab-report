@@ -3,7 +3,7 @@
 For this Lab Report, I will be using the “lecture1” repository to show off the examples for each command.
 
 **First command: cd**
-1. An example of using “cd” without any arguments: _________
+1. An example of using the “cd” command without any arguments:
 ![Image](cd_ex1.png)	
 * Working Directory: In this case, the working directory was the initial working directory which can be referred to as home.
 * There was no output, and the use case of the command “cd” with no arguments is to take you to your home directory, and as I already was in the home directory, there   was no change due to this command being run on the terminal.
@@ -46,7 +46,7 @@ For this Lab Report, I will be using the “lecture1” repository to show off t
 * There was no error
 
 **Third Command: cat**
-1. An example of using “cat” without any argument
+1. An example of using the “cat” command without any argument
 ![Image](cat_ex1.png)	
 * Working directory:  In this case, the working directory was the initial working directory which is the home directory.
 * There was no output, this was in other words an error, but it did not print it out as an error as “cd” is supposed to print out contents of a file and there was 
